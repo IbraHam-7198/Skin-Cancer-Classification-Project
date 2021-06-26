@@ -1,0 +1,9 @@
+numpy
+tensorflow 2.4.0
+matplotlib.pyplot
+tensorflow.keras.preprocessing
+io
+os
+datetime
+pandas
+skimage
