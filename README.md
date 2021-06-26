@@ -15,4 +15,4 @@ This work is licensed under a
 
 You can use, redistribute, and adapt the work done under this project for non-commercial purposes, as long as you (a) give appropriate credit to me "Ibrahim Hameem" and my colleague "Luqman Hameem" for the work done on this project titled "Skin Lesion Classification Project", (b) indicate any changes that you've made, and (c) distribute any derivative works under the same license. https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-[Presentation on Project Outcomes](https://www.linkedin.com/posts/ibrahim-hameem-65b57096_machinelearning-artificialintelliegence-python-activity-6791588327708606464-2815)
+[Please click here for a presentation on the overall approach and project outcomes](https://www.linkedin.com/posts/ibrahim-hameem-65b57096_machinelearning-artificialintelliegence-python-activity-6791588327708606464-2815)
